@@ -28,7 +28,7 @@
 
 
 ## 使用方法
-可在百度AI Studio上运行或者本地运行
+可在[百度AI Studio](https://aistudio.baidu.com/aistudio/index)上运行或者本地运行
 
 ## 其他思路？
 LSTM等
