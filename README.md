@@ -22,6 +22,8 @@
 6. 用词向量表示截断或补齐后的url ([m, 128]的输入)
 7. 使用[VGG](https://arxiv.org/abs/1409.1556)网络，编写成二分类问题
 
+## 网络模型
+<img src=./vgg.png />
 
 ## 结果
 <img src=./result.png />
