@@ -33,4 +33,4 @@
 可在[百度AI Studio](https://aistudio.baidu.com/aistudio/index)上运行或者本地运行
 
 ## 其他思路？
-LSTM等
+基于LSTM的二分类等
